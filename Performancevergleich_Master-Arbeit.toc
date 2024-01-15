@@ -1,0 +1,35 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {chapter}{\numberline {1}Einführung}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Ziel der Arbeit}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Verwandte Arbeiten}{9}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Methodik}{9}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Gliederung und Aufbau}{9}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Nebenläufigkeitskonzepte}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Java: Virtual Threads}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Java: Plattform Threads}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Java: Completable Futures}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Kotlin: CO-Routinen}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Kotlin: Threads}{10}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Go: Go-Routinen}{10}{section.2.6}%
+\contentsline {section}{\numberline {2.7}C\#: async/await}{10}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Vergleich der Konzepte}{10}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Benchmarks}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Benchmark 1}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Benchmark 2}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Benchmark 3}{11}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Testaufbau}{12}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Testumgebung}{12}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Performancefaktoren}{12}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Werkzeuge}{12}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Messungen}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Messung: Benchmark 1}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Messung: Benchmark 2}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Messung: Benchmark 3}{13}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Auswertung}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Ergebnisse und Beobachtungen}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Diskussion und Bewertung}{14}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Zusammenfassung und Ausblick}{15}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Zusammenfassung}{15}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Ausblick}{15}{section.7.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
