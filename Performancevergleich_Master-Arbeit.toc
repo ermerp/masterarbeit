@@ -18,6 +18,7 @@
 \contentsline {section}{\numberline {3.1}Benchmark 1}{11}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Benchmark 2}{11}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Benchmark 3}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Benchmark 4}{11}{section.3.4}%
 \contentsline {chapter}{\numberline {4}Testaufbau}{12}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Testumgebung}{12}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Performancefaktoren}{12}{section.4.2}%
@@ -26,6 +27,7 @@
 \contentsline {section}{\numberline {5.1}Messung: Benchmark 1}{13}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Messung: Benchmark 2}{13}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Messung: Benchmark 3}{13}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Messung: Benchmark 4}{13}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Auswertung}{14}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Ergebnisse und Beobachtungen}{14}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Diskussion und Bewertung}{14}{section.6.2}%
