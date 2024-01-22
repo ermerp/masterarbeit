@@ -22,7 +22,7 @@
 \contentsline {chapter}{\numberline {4}Testaufbau}{12}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Testumgebung}{12}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Performancefaktoren}{12}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Werkzeuge}{12}{section.4.3}%
+\contentsline {section}{\numberline {4.3}Werkzeuge zur Datenerhebung}{12}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Messungen}{13}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Messung: Benchmark 1}{13}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Messung: Benchmark 2}{13}{section.5.2}%

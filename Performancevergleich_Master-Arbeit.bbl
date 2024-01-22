@@ -1,0 +1,71 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Karsten2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1c348e305715fbbcc9be8068f7c15797}{%
+           family={Karsten},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=165628899b5eb5ec71ccde02f8811204}{%
+           family={Barghi},
+           familyi={B\bibinitperiod},
+           given={Saman},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{874c9a06f79b6d52d06f001532e3b101}
+      \strng{fullhash}{874c9a06f79b6d52d06f001532e3b101}
+      \strng{bibnamehash}{874c9a06f79b6d52d06f001532e3b101}
+      \strng{authorbibnamehash}{874c9a06f79b6d52d06f001532e3b101}
+      \strng{authornamehash}{874c9a06f79b6d52d06f001532e3b101}
+      \strng{authorfullhash}{874c9a06f79b6d52d06f001532e3b101}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. ACM Meas. Anal. Comput. Syst.}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{User-level Threading: Have Your Cake and Eat It Too}
+      \field{volume}{4}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1145/3379483
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3379483
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3379483
+      \endverb
+      \keyw{user-level runtime,synchronous programming,network server}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
